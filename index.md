@@ -1,4 +1,4 @@
-## Welcome to Overlay Data Capture Architecture
+## Welcome to Overlays Data Capture Architecture
 
 ODCA is a standardized global solution for data capture and exchange which protects PII data and provides a positive alternative to current architectures.
 
