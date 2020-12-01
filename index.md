@@ -10,4 +10,6 @@ A schema, a machine-readable definition of the semantics of a data structure, is
 
 [Poster](/oca_poster.pdf)
 
+[Presentation](/OCA.pdf)
+
 [Read more](https://medium.com/@paul.knowles_52509/overlays-data-capture-architecture-odca-providing-a-standardized-global-solution-for-data-caeb1679137a)
